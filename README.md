@@ -1,5 +1,8 @@
 # PatientBridge 🏥✨
 
+<img width="500" height="500" alt="whatwedoImg1-removebg-preview" src="https://github.com/user-attachments/assets/521b4529-c19f-4e3d-8f8c-22f08a2d2c4f" />
+
+
 PatientBridge is a comprehensive, modern clinic management and pre-consultation platform custom-built for the **Sambhavna Trust Clinic (Bhopal)**. It seeks to redefine the digital healthcare experience by blending high-end web aesthetics with a completely digital workflow spanning from patient intake down to doctor examination.
 
 ### 🌟 What makes it useful?
